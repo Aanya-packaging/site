@@ -1,3 +1,5 @@
+html{
+    scroll-behaviour:smooth;}
 *{
     box-sizing: border-box;
     margin: 0;
